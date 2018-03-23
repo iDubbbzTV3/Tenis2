@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tenis</string>
+    <string name="team_a">Team A</string>
+    <string name="_0a">0</string>
+    <string name="puntoa">Punto</string>
+    <string name="team_b">Team B</string>
+    <string name="_0">0</string>
+    <string name="punto">Punto</string>
+    <string name="reset">Reset</string>
+</resources>
